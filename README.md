@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sadaf and I am interested in building beautiful, user centered websites.
+I am Sadaf and I am interested in building beautiful, user centered websites. Please visit my pinned repositories to see the projects I have completed so far.
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning coding and UX design
 
